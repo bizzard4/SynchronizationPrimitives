@@ -1,3 +1,8 @@
+/**
+ * Producer-consumer problem solved in Java using monitor (lock).
+ * @author Francois Gingras
+ *
+ */
 public class PCMonitorJava {
 	
 	// Production and consume count
